@@ -1,5 +1,5 @@
 # BankAcc
-#Simple bank account
+Simple bank account
 
 class Account:
     def __init__(self,name,balance,min_balance):
